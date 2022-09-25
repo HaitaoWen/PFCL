@@ -1,0 +1,13 @@
+nni
+yacs
+torch==1.11.0
+numpy
+continuum==1.0.26
+torchvision
+tqdm
+tensorboard
+tensorboardx
+matplotlib
+argunparse
+quadprog
+geoopt

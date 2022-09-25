@@ -1,0 +1,11 @@
+# pycharm files
+.idea/
+
+# python cache
+__pycache__/
+
+# dataset dir
+data/*
+
+# log dir
+log/*
